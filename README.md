@@ -1,6 +1,7 @@
 # Clinical NLP Patient Outcome Prediction
 
 Dashboard (https://sara-iqbal.github.io/Clinical-NLP-Patient-Outcome-Prediction/)
+
 This repository contains a specialized NLP pipeline designed to classify medical text—such as clinical notes or research abstracts—into predicted patient outcomes. Using **DistilBERT**, the project demonstrates how transformer-based models can be fine-tuned to interpret complex medical narratives and provide structured insights.
 
 ---
